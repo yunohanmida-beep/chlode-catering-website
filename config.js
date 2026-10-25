@@ -2,6 +2,6 @@
    These browser values are public by design; never put a service_role/secret key here.
    Protect all write operations with the RLS policies in supabase.sql. */
 window.CHLODE_CONFIG = {
-  supabaseUrl: "YOUR_SUPABASE_PROJECT_URL",
-  supabaseAnonKey: "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY"
+  supabaseUrl: "https://fwnyjcvdxahhrtpjutmy.supabase.co",
+  supabaseAnonKey: "sb_publishable_1oqyTRxLC0vrp-DYVQsbGg__QRn86H3"
 };
